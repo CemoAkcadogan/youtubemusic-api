@@ -12,7 +12,6 @@ Before running the application, you need to have Node.js and npm (Node Package M
 
 # 1. Clone the repository:
 
-```bash
 git clone https://github.com/CemoAkcadogan/youtubemusic-api
 
 # 2. Navigate to the project directory:
