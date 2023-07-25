@@ -10,14 +10,14 @@ Before running the application, you need to have Node.js and npm (Node Package M
 
 ### Installation
 
-# 1. Clone the repository:
+ 1. Clone the repository:
 
 git clone https://github.com/CemoAkcadogan/youtubemusic-api
 
-# 2. Navigate to the project directory:
+ 2. Navigate to the project directory:
 cd your-repo
 
-# 3. Install the dependencies:
+ 3. Install the dependencies:
 npm install
 
 
@@ -32,7 +32,7 @@ API Key
 Please note that the YouTube Music API requires an API key to access the data. You can obtain an API key by signing up for the RapidAPI service and subscribing to the YouTube Music API.
 
 Once you have your API key, replace the 'X-RapidAPI-Key' value in index.js with your actual API key.
---------------------------
+
 const options = {
   // other options...
   headers: {
@@ -40,7 +40,6 @@ const options = {
     'X-RapidAPI-Host': 'youtube-music-api-detailed.p.rapidapi.com'
   }
 };
--------------------------
 
 Built With
 Node.js - JavaScript runtime
@@ -56,4 +55,3 @@ Thanks to the creators of Node.js, Express, and Axios for their fantastic tools.
 
 Replace `your-username` and `your-repo` with your GitHub username and repository name, respectively. The README contains basic instructions on how to install the project, how to get an API key, and the technologies used in the project. It also provides acknowledgment to the creators of the tools used in the project and mentions the license. You can further customize it as per your project's specific needs.
 
-![image](https://github.com/CemoAkcadogan/youtubemusic-api/assets/115698766/7a76d38a-f78f-4229-98e8-1052f6afa804)
