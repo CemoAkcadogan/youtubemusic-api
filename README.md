@@ -33,14 +33,14 @@ Please note that the YouTube Music API requires an API key to access the data. Y
 
 Once you have your API key, replace the 'X-RapidAPI-Key' value in index.js with your actual API key.
 
+"bash
 const options = {
-  // other options...
   headers: {
     'X-RapidAPI-Key': 'YOUR_API_KEY',
     'X-RapidAPI-Host': 'youtube-music-api-detailed.p.rapidapi.com'
   }
 };
-
+"
 Built With
 Node.js - JavaScript runtime
 Express - Web application framework
@@ -55,3 +55,4 @@ Thanks to the creators of Node.js, Express, and Axios for their fantastic tools.
 
 Replace `your-username` and `your-repo` with your GitHub username and repository name, respectively. The README contains basic instructions on how to install the project, how to get an API key, and the technologies used in the project. It also provides acknowledgment to the creators of the tools used in the project and mentions the license. You can further customize it as per your project's specific needs.
 
+![image](https://github.com/CemoAkcadogan/youtubemusic-api/assets/115698766/8f54091f-bc04-42cb-b598-d91a82621cd4)
