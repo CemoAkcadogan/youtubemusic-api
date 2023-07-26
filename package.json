@@ -2,9 +2,9 @@
   "name": "youtubemusic-api",
   "version": "1.0.0",
   "description": "YouTube Music API Örneği",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node public/script.js"
   },
   "author": "",
   "license": "ISC",
